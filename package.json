@@ -1,0 +1,20 @@
+{
+  "name": "Maison Lavande",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilyfetco/Maison Lavande.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilyfetco/Maison Lavande/issues"
+  },
+  "homepage": "https://github.com/emilyfetco/Maison Lavande#readme",
+  "description": ""
+}
