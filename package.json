@@ -1,5 +1,5 @@
 {
-  "name": "Maison Lavande",
+  "name": "Lavender",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,14 +7,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emilyfetco/Maison Lavande.git"
+    "url": "git+https://github.com/emilyfetco/Lavender.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/emilyfetco/Maison Lavande/issues"
+    "url": "https://github.com/emilyfetco/Lavender/issues"
   },
-  "homepage": "https://github.com/emilyfetco/Maison Lavande#readme",
+  "homepage": "https://github.com/emilyfetco/Lavender#readme",
   "description": ""
 }
